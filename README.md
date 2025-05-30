@@ -16,5 +16,5 @@ This project is a complete end-to-end **Machine Learning application** that pred
 
 ---
 
-## 📁 Directory Structure
+
 
